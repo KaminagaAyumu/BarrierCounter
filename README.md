@@ -7,3 +7,6 @@
 ### 【動作確認】
 OS:Windows  
 GPU:NVIDIA GeForce RTX 4060
+
+### 【動画URL】
+https://youtu.be/N-rrD2n-XXA
